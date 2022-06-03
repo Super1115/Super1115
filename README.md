@@ -1,5 +1,8 @@
-### Hi there 👋
-
+<h1>Hi i'm Super</h1><br>
+<h2>💻Projects:</h2>
+  - <b>Small Projects</b>
+    - [Accounting](https://github.com/Super1115/Accounting)
+    - [text-image-generator](https://github.com/Super1115/text-image-generator)
 <!--
 **Super1115/Super1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
