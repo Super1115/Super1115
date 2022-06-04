@@ -1,6 +1,6 @@
 <h1>Hi i'm Super</h1>
 
-- <h2>💻Projects:</h2>
+<h2>💻Projects:</h2>
 
 - <b>Small Projects:</b>
 
