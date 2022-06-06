@@ -7,6 +7,7 @@
 	- [ Accounting](https://github.com/Super1115/Accounting)
 	- [Text-Image-Generator](https://github.com/Super1115/text-image-generator)
 	- [Text-To-Speech](https://github.com/Super1115/Text-To-Speech)
+	- [alert(just-for-fun)](https://github.com/Super1115/alert-just-for-fun)
 	
 - <b>large Projects:</b>
 
