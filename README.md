@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://komarev.com/ghpvc/?username=Super1115)
 
 # Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Super1115&layout=compact)
