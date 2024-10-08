@@ -3,6 +3,24 @@
 
 <img src="https://komarev.com/ghpvc/?username=Super1115">
 
+<br>
+
+# Skills
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=css,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=nodejs,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=py,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=github,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=firebase,kubernetes,docker,c,vim" />
+
+    
+</p>
+<br>
+
 # Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Super1115&layout=compact)
 
