@@ -8,7 +8,7 @@
 # Skills
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,github,firebase" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,figma,firebase" />
 </p>
 <br>
 
