@@ -23,3 +23,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Super1115&layout=compact)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Super1115&show_icons=true&theme=transparentz&rank_icon=github)
+
+# Certificates
+
+![Google Play Academy - Store Listing Certificate](./files/Google%20Play%20Academy%20-%20Store%20Listing%20Certificate.pdf)
