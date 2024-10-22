@@ -26,4 +26,4 @@
 
 # Certificates
 
-* 2024 ![Google Play Academy - Store Listing Certificate](./files/Google Play Academy - Store Listing Certificate.pdf)
+* 2024 ![Google Play Academy - Store Listing Certificate](./files/Google%20Play%20Academy%20-%20Store%20Listing%20Certificate.pdf)
