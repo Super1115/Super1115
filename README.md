@@ -15,7 +15,7 @@
 * 2023 [Journey-To-The-Outer-Space](https://github.com/Super1115/Journey-To-The-Outer-Space)
 * 2024 [Map-it](https://github.com/Super1115/Map-it)
 
-## Other Hackathon Projects
+## Game Jam Projects
 
 * Winter Mellon Jam 4 [Project_Mellon_Jam_4_](https://github.com/Super1115/Project_Mellon_Jam_4_)
 
