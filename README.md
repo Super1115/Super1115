@@ -21,6 +21,10 @@
 * 2023 [Journey-To-The-Outer-Space](https://github.com/Super1115/Journey-To-The-Outer-Space)
 * 2024 [Map-it](https://github.com/Super1115/Map-it)
 
+## penguinly.org Projects
+
+* [zeroth-AID](https://github.com/penguinly-org/zeroth-Aid)
+
 ## Hack This Fall Hackathon Projects 
 
 * 2024 [hikingBuddy](https://github.com/Super1115/hikingBuddy)
