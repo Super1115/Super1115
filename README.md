@@ -18,7 +18,7 @@
 
 ## NASA Space App Challenge Projects
 
-* 2023 [Journey-To-The-Outer-Space](https://github.com/Super1115/Journey-To-The-Outer-Space)
+* 2023 [Journey-To-Outer-Space](https://github.com/Super1115/Journey-To-The-Outer-Space)
 * 2024 [Map-it](https://github.com/Super1115/Map-it)
 
 ## Hack This Fall Hackathon Projects 
