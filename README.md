@@ -11,6 +11,8 @@
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,py,git,figma,firebase" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=ts,next,react" />
 </p>
 <br>
 
