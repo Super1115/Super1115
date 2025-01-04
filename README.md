@@ -4,7 +4,6 @@
 # Experience
 
 * Youth Representative @ Taipei City Youth Committee (FEB 2025 ~ JAN 2027)
-* Developer @ Penguinly.org (OCT 2024 ~)
 
 
 # Skills
