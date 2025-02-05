@@ -34,15 +34,15 @@
 
 * Winter Mellon Jam 4 [Project_Mellon_Jam_4_](https://github.com/Super1115/Project_Mellon_Jam_4_)
 
-# Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Super1115&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Super1115&show_icons=true&theme=transparentz&rank_icon=github)
-
 # Certificates
 
 * 2023 [NASA Space App Challenge 2023](./files/Screenshot%202024-10-13%20165926.png)
 * 2024 [Google Play Academy - Store Listing Certificate](./files/Google%20Play%20Academy%20-%20Store%20Listing%20Certificate.pdf)
 * 2024 [NASA Space App Challenge 2024](./files/srcdoc.pdf)
 * 2025 [HackerRank - JavaScript (Basic) Certificate](./files/javascript_basic%20certificate.pdf)
+
+# Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Super1115&layout=compact)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Super1115&show_icons=true&theme=transparentz&rank_icon=github)
 
