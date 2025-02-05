@@ -41,4 +41,8 @@
 
 # Certificates
 
+* 2023 [NASA Space App Challenge 2023](./files/Screenshot%202024-10-13%20165926.png)
 * 2024 [Google Play Academy - Store Listing Certificate](./files/Google%20Play%20Academy%20-%20Store%20Listing%20Certificate.pdf)
+* 2024 [NASA Space App Challenge 2024](./files/srcdoc.pdf)
+* 2025 [HackerRank - JavaScript (Basic) Certificate](./files/javascript_basic%20certificate.pdf)
+
