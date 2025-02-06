@@ -40,6 +40,7 @@
 * 2024 [Google Play Academy - Store Listing Certificate](./files/Google%20Play%20Academy%20-%20Store%20Listing%20Certificate.pdf)
 * 2024 [NASA Space App Challenge 2024](./files/srcdoc.pdf)
 * 2025 [HackerRank - JavaScript (Basic) Certificate](./files/javascript_basic%20certificate.pdf)
+* 2025 [W3School - Advanced JavaScript Developer](./files/certificate_of_completion_javascript-1.pdf)
 
 # Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Super1115&layout=compact)
