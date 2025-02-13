@@ -41,6 +41,8 @@
 * 2024 [NASA Space App Challenge 2024](./files/srcdoc.pdf)
 * 2025 [HackerRank - JavaScript (Basic) Certificate](./files/javascript_basic%20certificate.pdf)
 * 2025 [W3School - Advanced JavaScript Developer](./files/certificate_of_completion_javascript-1.pdf)
+* 2025 [IBM - Getting Started with Data Course](./files/IBMDesign20250212-26-x0ip8k.pdf)
+* 2025 [EF SET English Certificate (C2 Proficient)](./files/EF%20SET%20Certificate.pdf)
 
 # Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Super1115&layout=compact)
