@@ -43,6 +43,7 @@
 * 2025 [W3School - Advanced JavaScript Developer](./files/certificate_of_completion_javascript-1.pdf)
 * 2025 [IBM - Getting Started with Data Course](./files/IBMDesign20250212-26-x0ip8k.pdf)
 * 2025 [EF SET English Certificate (C2 Proficient)](./files/EF%20SET%20Certificate.pdf)
+* 2025 [Alison Graphic Design Certificate](./files/Alison_Certificate-1926-46558037.pdf)
 
 # Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Super1115&layout=compact)
